@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TrendView">
+        <attr name="axesColor" format="color"/>//坐标轴样式
+        <attr name="axesWidth" format="dimension"/>
+        <attr name="textColor" format="color"/>//字体样式
+        <attr name="textSize" format="dimension"/>
+        <attr name="lineColor" format="color"/>//折线颜色
+        <attr name="bgColor" format="color"/>背景颜色
+    </declare-styleable>
+</resources>
